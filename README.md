@@ -60,7 +60,16 @@ def data_viz():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+## Implementation: 
+* The user inputs the query, which should be preferably longer in length to capture the semantic meaning, also mentioning items specific boosts the search quality.
+* The query is preprocessed in the backend and using the Word2Vec model a vector is produced to carry out cosine_similarity.
+* The list of items is presented in a separate page with the title, price, Link to the original item on AMAZON, description, and reviews.
+
 ### Result page for a query
 ![Screenshot (183)](https://github.com/arinsharma123/Cantilever-Web-Srape/assets/128144029/ce24a7dd-421f-414d-a498-0a9f9a3dcb28)
 ![Scroll](https://github.com/arinsharma123/Cantilever-Web-Srape/assets/128144029/7ec9a49b-6579-4ef2-8979-89a8e34895fa)
 
+## Some highlights from the Data Viz Page
+
+![Screenshot (189)](https://github.com/arinsharma123/Cantilever-Web-Scrape/assets/128144029/9d31ec00-1d33-4907-a1ab-3c94bcf1dd10)
+![Screenshot (190)](https://github.com/arinsharma123/Cantilever-Web-Scrape/assets/128144029/28c78114-4803-4683-8d67-4a684d32d07f)
