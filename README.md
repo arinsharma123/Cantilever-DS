@@ -62,3 +62,5 @@ if __name__ == '__main__':
 ```
 ### Result page for a query
 ![Screenshot (183)](https://github.com/arinsharma123/Cantilever-Web-Srape/assets/128144029/ce24a7dd-421f-414d-a498-0a9f9a3dcb28)
+![Scroll](https://github.com/arinsharma123/Cantilever-Web-Srape/assets/128144029/7ec9a49b-6579-4ef2-8979-89a8e34895fa)
+
