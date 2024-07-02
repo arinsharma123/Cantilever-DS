@@ -5,7 +5,7 @@ This project implements a full data processing and search engine pipeline, start
 #### TECH STACK: Selenium, gensim, tensorflow, sklearn, nltk, pandas, matplotlib, numpy, Flask, Jupyter lab, VSCode.
 
 ## 1. Web Scraping
-* Data collection is done by scraping electronic products like Cameras and their accessories, headphones, mobile phones, laptops, and tablets from Amazon.
+* Data collection is done by scraping electronic products like Cameras and their accessories, headphones, mobile phones, laptops, and tablets from Amazon to gather a dataset of 2000+ items.
 * Dynamic Scraping action implemented using Selenium and the retrieved data was written into CSV files
 * TECH STACK: Selenium, BeautifulSoup
 
